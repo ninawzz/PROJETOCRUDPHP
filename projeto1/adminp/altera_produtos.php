@@ -6,10 +6,10 @@
     $nome = $_POST['produto'];
     $preco = $_POST['preco'];
 
-    $sql = "UPDATE clientes SET
-            produto = '$produto',
-            preco = '$preco',
-            WHERE id = '$id'"
+    $sql = "UPDATE produtos SET
+            produto = '$nome',
+            preco = '$preco'
+            WHERE id = '$id'";
 
     $resultado = mysqli_query($conexao, $sql);
 
@@ -20,4 +20,3 @@
         echo "Houve um erro na alteração.";
         echo "<a href='?pg=admin_produtos'>Voltar</a>";
     }
-    
