@@ -108,7 +108,3 @@ http://localhost/projeto1/
 - Mariana Macedo de Farias Souza
 - Kaio Souto Rodrigues
 - Nina Coutinho Rosas Trocolli
-
-
-Quer que eu personalize esse README com o **nome real do seu repositório**, **tecnologias específicas usadas (ex: Django, Laravel, etc.)** e **seu nome de autor**?
-Posso ajustar tudo e deixar pronto para copiar e colar no GitHub.
