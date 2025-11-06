@@ -75,7 +75,7 @@ Tabela: produtos
 CREATE TABLE produtos (
 id int AUTO_INCREMENT PRIMARY KEY,
 nome VARCHAR(150) NOT NULL,
-preco FLOAT,
+preco FLOAT
 )
  ```
 
