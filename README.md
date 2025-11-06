@@ -100,7 +100,7 @@ projeto1.sql
 - Inicie Apache e MySQL no XAMPP Control Panel
 - Acesse no navegador:
  ```
-http://localhost/projeto1/
+http://localhost/PROJETOCRUDPHP/projeto1/
  ```
 ---
 
