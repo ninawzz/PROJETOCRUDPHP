@@ -57,8 +57,6 @@ O sistema utiliza o banco projeto1, que contém as tabelas clientes e produtos.
 Script SQL (projeto1.sql)
 ```-- Criação do banco de dados
 
-USE projeto1;
-
 ===============================
  Tabela: clientes
 ===============================
